@@ -3,7 +3,7 @@ echo testing
 
 #Defined Vars
 
-REMOTE_FILE_URL="https://cdn.vintagestory.at/gamefiles/unstable/vs_client_linux-x64_1.20.0-rc.5.tar.gz"  # URL of the remote file
+REMOTE_FILE_URL="https://cdn.vintagestory.at/gamefiles/unstable/vs_client_linux-x64_1.20.0-rc.6.tar.gz"  # URL of the remote file
 REMOTE_FILE_DOWNLOAD="/home/$USER/Downloads/vs_client.tar.gz"      # Local path to save the file
 VS_FLATPAK_DIR="var/lib/flatpak/app/at.vintagestory.VintageStory/current/active/files/extra/vintagestory/"
 
